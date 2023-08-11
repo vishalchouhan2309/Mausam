@@ -1,1 +1,1 @@
-#Mausam - Weather analysis and prediction
+Mausam - Weather analysis and prediction
