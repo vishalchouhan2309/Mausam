@@ -14,7 +14,7 @@ Current weather conditions, including temperature, humidity and wind speed
 
 ```
 
-## Usage
+## Attributes
 
 ```
 Temperature
@@ -31,28 +31,17 @@ Wind speed
 
 ```
 
-Temperature
-min temperature
-max temperature
-
-Humidity info
-wind degree
-feels like 
-Humidity
-
-Wind info
-Wind speed
-
-
-weather api used 
-Get the latest weather data for any region in the world. 
-See more info at https://api-ninjas.com/api/weather.
+## Weather api used  https://api-ninjas.com/api/weather.
+Get the latest weather data for any region in the world
 The API Ninjas Weather API provides the latest weather information for any city or geographic location in the world.
 
-Screenshot of the UI
+# Screenshot of UI
+![HomepageUI](./Screenshots/HomepageUI.jpg)
 
-Video Deployment 
+# YouTube Video Link
+Link for YouTube Video : Click the below thumbnail to open 
 
-
-
-github pages link 
+[![https://youtu.be/Xvk5r0t_RQw](https://i.ytimg.com/vi/Xvk5r0t_RQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbp5SouquUm3Y3t-NYfOYsg4N4oQ)](https://youtu.be/Xvk5r0t_RQw)
+## Deployment
+# azure web app link :
+# Github pages link  : https://vishalchouhan2309.github.io/Mausam/
