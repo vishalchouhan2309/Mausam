@@ -36,7 +36,7 @@ Get the latest weather data for any region in the world
 The API Ninjas Weather API provides the latest weather information for any city or geographic location in the world.
 
 # Screenshot of UI
-![HomepageUI](./Screenshots/HomepageUI.jpg)
+![HomepageUI](./HomepageUI.jpg)
 
 # YouTube Video Link
 Link for YouTube Video : Click the below thumbnail to open 
