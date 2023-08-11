@@ -31,7 +31,7 @@ Wind speed
 
 ```
 
-## Weather api used  https://api-ninjas.com/api/weather.
+## Weather api used https://rapidapi.com/apininjas/api/weather-by-api-ninjas/
 Get the latest weather data for any region in the world
 The API Ninjas Weather API provides the latest weather information for any city or geographic location in the world.
 
