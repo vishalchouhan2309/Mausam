@@ -39,7 +39,8 @@ The API Ninjas Weather API provides the latest weather information for any city 
 ![HomepageUI](./HomepageUI.jpg)
 
 # YouTube Video Link
-Link for YouTube Video :https://youtu.be/mLCwkXIQ2Vs
+Link for YouTube Video https://youtu.be/mLCwkXIQ2Vs
+
 
 ## Deployment
 # azure web app link : https://proud-glacier-0f8de4810.3.azurestaticapps.net
