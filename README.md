@@ -39,9 +39,8 @@ The API Ninjas Weather API provides the latest weather information for any city 
 ![HomepageUI](./HomepageUI.jpg)
 
 # YouTube Video Link
-Link for YouTube Video : Click the below thumbnail to open 
+Link for YouTube Video : 
 
-[![https://youtu.be/Xvk5r0t_RQw](https://i.ytimg.com/vi/Xvk5r0t_RQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbp5SouquUm3Y3t-NYfOYsg4N4oQ)](https://youtu.be/Xvk5r0t_RQw)
 ## Deployment
 # azure web app link :
 # Github pages link  : https://vishalchouhan2309.github.io/Mausam/
