@@ -20,7 +20,8 @@ Wind speed
 
 
 weather api used 
-Get the latest weather data for any region in the world. See more info at https://api-ninjas.com/api/weather.
+Get the latest weather data for any region in the world. 
+See more info at https://api-ninjas.com/api/weather.
 The API Ninjas Weather API provides the latest weather information for any city or geographic location in the world.
 
 github pages link 
